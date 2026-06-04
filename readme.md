@@ -31,3 +31,6 @@ Use CMake 3.24 or above to configure and generate the Visual Studio solution as 
 - Double-click the new geometry node to go into it.
 - Press Tab again in the Network Editor window and type "MyMPM".
 - Click to place.
+
+  ### Testing
+- Houdini testing files are provided
